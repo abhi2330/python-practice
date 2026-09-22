@@ -58,5 +58,5 @@ def calc_sum(n):
     return calc_sum(n-1) + n
 
 sum = calc_sum(10)
-print(sum)
+print(sum)   
 
